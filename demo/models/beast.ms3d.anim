@@ -1,0 +1,15 @@
+1 25 A     = Walk
+26 70 B    = Emerge from underground
+71 80 C    = Transition to Walk animation
+82 100 D   = Jump with Z movement
+102 120 E  = Jump with no Z movement for control in-game
+122 150 F  = Rear up on hind legs
+152 180 G  = Crouch down and look around
+182 195 H  = Headbutt
+197 210 I  = Bite 1
+212 230 J  = Bite 2
+232 270 K  = Stomp
+272 288 L  = Take damage
+290 330 M  = Look around
+332 380 N  = Idle
+382 400 O  = Die
